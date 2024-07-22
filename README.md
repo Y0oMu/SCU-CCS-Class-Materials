@@ -1,6 +1,6 @@
 # 四川大学网络空间安全学院本科课程资料（更新中）
 
-[![Stars](https://img.shields.io/github/stars/KarryRen/SCU-CS-Class-Materials.svg)](https://github.com/KarryRen/SCU-CS-Class-Materials/stargazers) [![Forks](https://img.shields.io/github/forks/KarryRen/SCU-CS-Class-Materials.svg)](https://github.com/KarryRen/SCU-CS-Class-Materials/network/members) ![GitHub repo size](https://img.shields.io/github/repo-size/KarryRen/SCU-CS-Class-Materials.svg) [![Issues](https://img.shields.io/github/issues/KarryRen/SCU-CS-Class-Materials.svg)](https://github.com/KarryRen/SCU-CS-Class-Materials/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/KarryRen/SCU-CS-Class-Materials.svg)](https://github.com/KarryRen/SCU-CS-Class-Materials/pulls)
+[![Stars](https://img.shields.io/github/stars/Y0oMu/SCU-CCS-Class-Materials.svg)](https://github.com/Y0oMu/SCU-CCS-Class-Materials/stargazers) [![Forks](https://img.shields.io/github/forks/Y0oMu/SCU-CCS-Class-Materials.svg)](https://github.com/Y0oMu/SCU-CCS-Class-Materials/network/members) ![GitHub repo size](https://img.shields.io/github/repo-size/Y0oMu/SCU-CCS-Class-Materials.svg) [![Issues](https://img.shields.io/github/issues/Y0oMu/SCU-CCS-Class-Materials.svg)](https://github.com/Y0oMu/SCU-CCS-Class-Materials/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/Y0oMu/SCU-CCS-Class-Materials.svg)](https://github.com/Y0oMu/SCU-CCS-Class-Materials/pulls)
 
 ## 📚 资料简介
 

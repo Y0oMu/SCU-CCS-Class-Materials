@@ -90,7 +90,7 @@
 
 ### 2.2 文件规范
 
-通过[**资料目录**](https://github.com/KarryRen/SCU-CS-Class-Materials?tab=readme-ov-file#-资料目录)，你可以发现，目前本仓库采取的是按照贡献者划分资源，这样能够让项目更好管理，同时能做到更好的溯源。
+通过[**资料目录**](https://github.com/Y0oMu/SCU-CCS-Class-Materials?tab=readme-ov-file#-资料目录)，你可以发现，目前本仓库采取的是按照贡献者划分资源，这样能够让项目更好管理，同时能做到更好的溯源。
 
 对于文件结构规范 🗂️，请参考以下管理规范，本资料目录共有 4 级，分别是：
 
@@ -132,10 +132,10 @@ GitHub 原为代码托管网站，对于不熟悉 GitHub 工作流程的读者�
 
 分别来看，您有两种方法将资源发送给我们：
 
-- Email 地址：KarryRenKai@outlook.com（请添加必要的说明）
+- Email 地址：yejiayi2004@outlook.com（请添加必要的说明）
 - Issue 的使用方法（需要登录 GitHub 账号）：
   1. 进入仓库首页；
-  2. 点击仓库名 `SCU-CS-Class-Materials` 下的 `Issues` 选项卡；
+  2. 点击仓库名 `SCU-CCS-Class-Materials` 下的 `Issues` 选项卡；
   3. 点击 `New Issue` 按钮；
   4. 选择贡献资源 `Issue` 模板，点击`Get started`；
   5. 根据输入框内的指引，上传资源文件，点击 `Submit new issue` 按钮即可。
@@ -155,7 +155,7 @@ GitHub 原为代码托管网站，对于不熟悉 GitHub 工作流程的读者�
 步骤|示例
 ---|---
 我们首先要做的是 Fork 仓库，点击仓库首页右上角的 `Fork` 按钮。进入下一页面后点击`Create fork`即可。|![click fork](./imgs/fork_the_repo.png)
-之后会进入一个同名仓库，但所有者变成了您<br>在仓库名下方会有`forked from KarryRen/SCU-CS-Class-Materials`|<img src='./imgs/forked.png' height=200px>
+之后会进入一个同名仓库，但所有者变成了您<br>在仓库名下方会有`forked from Y0oMu/SCU-CCS-Class-Materials`|<img src='./imgs/forked.png' height=200px>
 然后就可以对您 Fork 的仓库做各种改动，<br>例如修改 CONTRIBUTION.md 文件；修改完成后，<br>点击<img src='./imgs/commit_change.png' height=40px>按钮提交 `Commit`。|![change_demo](./imgs/change_demo.gif)
 您也可以上传文件或者文件夹，<br>进入您想要上传资源的目录，<br>点击右上角的 `Add file`，再点击`Upload files` 按钮，<br>选择或者拖动文件/文件夹到网页中间的框内，然后提交 `Commit`。<br>例如上传`大四上`资料，注意示例中图方便并未新增贡献人文件夹|![load_file_by_hand](./imgs/load_file_by_hand.gif)
 假如您对 Fork 的仓库提交了18次 `Commit`，<br>`This branch is 18 commits ahead of Xovee:master`<br>表示当前分支比源仓库领先 `18` 个提交。|<img src='./imgs/ahead.png'>

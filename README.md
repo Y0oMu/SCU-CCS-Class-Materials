@@ -114,6 +114,8 @@ SCU-CS-Class-Materials/
             ├── novelyear_2024_93
             ├── MountMist_2024_90
             ├── Narrao_2024_94
+        ├── 应用密码学
+            ├── Y0oMu_2024_xx
         └── README.md 
 ├── 大三 （Grade3）
     ├── 上学期

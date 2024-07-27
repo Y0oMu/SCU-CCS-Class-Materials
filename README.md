@@ -4,7 +4,7 @@
 
 ## 📚 资料简介
 
-本项目`clone`自`https://github.com/KarryRen/SCU-CS-Class-Materials`项目，前身为四川大学计算机学院的本科课程资料。
+本项目`clone`自`https://github.com/KarryRen/SCU-CS-Class-Materials`项目，前身为四川大学计算机学院的本科课程资料。目录后面加`链接`的为继承自四川大学计算机学院的公共课程的相关资料，有需求可以直接`点击`访问，如果喜欢的话也可以给他们点一个`star`。
 
 "信息"是大学中十分重要的资源，打破“信息差”对于系统理解课程知识，高效梳理知识框架，精准把握核心要点有着重要意义。本科是“**打基础、宽视野**”的关键阶段，扎实的基础知识不仅能让我们对相关学科有正确的常识性认知，还能让我们熟练掌握日后科研、工作所需的基础工具。
 
@@ -63,57 +63,53 @@ SCU-CS-Class-Materials/
 ├── 大一 （Grade1）
     ├── 上学期
         ├── （必修）大学生心理健康_心理健康
-            ├── Orderheart_2022_xx
+            ├── Orderheart_2022_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7_%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/Orderheart_2022_xx)
         ├── （必修）微积分（Ⅰ）-1_微积分上
-            ├── Narrao_2022_xx
-            ├── Orderheart_2022_xx
+            ├── Narrao_2022_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E2%85%A0%EF%BC%89-1_%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8A/Narrao_2022_xx)
+            ├── Orderheart_2022_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E2%85%A0%EF%BC%89-1_%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8A/Orderheart_2022_xx)
         ├── （必修）思想道德修养与法律基础_思修
-            ├── Narrao_2022_95
-            ├── Orderheart_2022_xx
+            ├── Narrao_2022_95(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80_%E6%80%9D%E4%BF%AE/Narrao_2022_95)
+            ├── Orderheart_2022_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80_%E6%80%9D%E4%BF%AE/Orderheart_2022_xx)
         └── README.md 
     └── 下学期
         ├── （必修）中国近现代史纲要_近纲
-            ├── MountMist_2023_90
-            ├── Orderheart_2023_xx
+            ├── MountMist_2023_90(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81_%E8%BF%91%E7%BA%B2/MountMist_2023_92)
+            ├── Orderheart_2023_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81_%E8%BF%91%E7%BA%B2/Orderheart_2023_xx)
         ├── （必修）微积分（Ⅰ）-2_微积分下
-            ├── Ayin_2023_xx
-            ├── Orderheart_2023_xx
-        ├── （必修）汇编语言程序设计_汇编
-            ├── Karry_2021_92
-            ├── Orderheart_2023_xx
-            ├── 57UU_2024_92 # 含"3 次实验报告"
+            ├── Ayin_2023_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E2%85%A0%EF%BC%89-2_%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8B/Ayin_2023_xx)
+            ├── Orderheart_2023_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E2%85%A0%EF%BC%89-2_%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B8%8B/Orderheart_2023_xx)
         ├── （必修）线性代数（理工）_线代
-            ├── Ayin_2023_xx
-            ├── Orderheart_2023_xx
-            ├── Charles_2022_xx
-            ├── Narrao_2023_94
+            ├── Ayin_2023_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89_%E7%BA%BF%E4%BB%A3/Ayin_2023_xx)
+            ├── Orderheart_2023_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89_%E7%BA%BF%E4%BB%A3/Orderheart_2023_xx)
+            ├── Charles_2022_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89_%E7%BA%BF%E4%BB%A3/Orderheart_2023_xx)
+            ├── Narrao_2023_94(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89_%E7%BA%BF%E4%BB%A3/Narrao_2023_94)
         ├── （选修）大学物理实验（理工）Ⅲ-1_大物实验
-            ├── Karry_2021_95 # 含扫描版 "7 次实验报告合集"
+            ├── Karry_2021_95(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade1/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E9%80%89%E4%BF%AE%EF%BC%89%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89%E2%85%A2-1_%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/Karry_2021_95/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E5%90%88%E9%9B%86) # 含扫描版 "7 次实验报告合集"
         └── README.md 
 ├── 大二 （Grade2）
     ├── 上学期
         ├── （必修）大学物理（理工）Ⅲ-2_大物
-            ├── Karry_2021_94
-            ├── Narrao_2023_94
+            ├── Karry_2021_94(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade2/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89%E2%85%A2-2_%E5%A4%A7%E7%89%A9/Karry_2021_94)
+            ├── Narrao_2023_94(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade2/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89%E2%85%A2-2_%E5%A4%A7%E7%89%A9/Narrao_2023_94)
         ├── （必修）大学物理实验（理工）Ⅲ-2_大物实验
-            ├── Karry_2021_95 # 含扫描版 "3 次实验报告合集"
+            ├── Karry_2021_95(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade2/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89%E2%85%A2-2_%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/Karry_2021_95/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E5%90%88%E9%9B%86) # 含扫描版 "3 次实验报告合集"
         ├── （必修） 概率统计（理工）_概统
-            ├── Karry_2021_97
-            ├── Narrao_2023_94
+            ├── Karry_2021_97(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade2/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89_%E6%A6%82%E7%BB%9F/Karry_2021_97)
+            ├── Narrao_2023_94(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade2/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89_%E6%A6%82%E7%BB%9F/Narrao_2023_94)
         ├── （必修） 马克思主义基本原理概论_马原
-            ├── Karry_2021_95
-            ├── MountMist_2023_98
-            ├── Narrao_2023_95
+            ├── Karry_2021_95(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade2/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%EF%BC%88%E7%90%86%E5%B7%A5%EF%BC%89_%E6%A6%82%E7%BB%9F/Narrao_2023_94)
+            ├── MountMist_2023_98(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade2/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA_%E9%A9%AC%E5%8E%9F/MountMist_2023_98)
+            ├── Narrao_2023_95(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade2/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA_%E9%A9%AC%E5%8E%9F/Narrao_2023_96)
         └── README.md 
     └── 下学期
         ├── （必修）毛泽东思想和中国特色社会主义理论体系概论_毛概
-            ├── Karry_2022_93 # 含 "暑期实践报告"
-            ├── Narrao_2024_xx
+            ├── Karry_2022_93(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade2/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA_%E6%AF%9B%E6%A6%82/Karry_2022_93) # 含 "暑期实践报告"
+            ├── Narrao_2024_xx(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade2/%E4%B8%8B%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA_%E6%AF%9B%E6%A6%82/Narrao_2024_93)
         ├── （必修）习近平新时代中国特色社会主义思想概论_习概
-            ├── Karry_2022_95
-            ├── novelyear_2024_93
-            ├── MountMist_2024_90
-            ├── Narrao_2024_94
+            ├── Karry_2022_95(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade3/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA_%E4%B9%A0%E6%A6%82/Karry_2022_95)
+            ├── novelyear_2024_93(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade3/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA_%E4%B9%A0%E6%A6%82/novelyear_2024_93)
+            ├── MountMist_2024_90(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade3/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA_%E4%B9%A0%E6%A6%82/MountMist_2024_90)
+            ├── Narrao_2024_94(https://github.com/KarryRen/SCU-CS-Class-Materials/tree/main/Grade3/%E4%B8%8A%E5%AD%A6%E6%9C%9F/%EF%BC%88%E5%BF%85%E4%BF%AE%EF%BC%89%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA_%E4%B9%A0%E6%A6%82/Narrao_2024_94)
         ├── 应用密码学
             ├── Y0oMu_2024_xx
         └── README.md 
